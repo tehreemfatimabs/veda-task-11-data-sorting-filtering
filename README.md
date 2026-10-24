@@ -47,7 +47,7 @@ This project was completed as part of the VEDA Technology Internship. It demonst
 - Communicating analytical results clearly.
 
 ### Deliverables
-- `Business Questions Answers.xlsx` — business questions, methods, results, and insights.
+- `PL Sales Report_Veda.xlsx` — business questions, methods, results, and insights.
 - `README.md` — project overview and documentation.
 
 ### Conclusion
